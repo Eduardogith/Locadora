@@ -1,7 +1,5 @@
-# Olá pessoa do git!
+#Locadora
 
 Esse é um repositório git.
 
-Saiba mais em @@QWQWE@@@
 
-Ajude com uma doação
